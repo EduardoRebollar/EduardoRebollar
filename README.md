@@ -8,4 +8,4 @@ I am most comfortable working with:
   - IntelliJ CE for Java
   - Visual Studio Code for HTML, CSS, JavaScript
 
-I can be reached at eduardorebollar2121@gmail.com
+I can be reached at eduardorebollar2121@gmail.com and rebollar@oxy.edu
