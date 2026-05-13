@@ -74,7 +74,7 @@ English · Spanish (bilingual)
 
 ## 📫 Reach me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) *(swap in your URL)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-rebollar-361877244)
 - 📧 Open to internships, collaborations, research opportunities, and conversations about AI, CS, econ, or anything interesting!
 ---
 
